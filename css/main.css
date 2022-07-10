@@ -225,7 +225,6 @@ header{
 .section-4{
     width: 1400px;
     height: 797px;
-    border: 1px solid;
     margin: 0 auto;
     background-color: #0A2640;
 }
@@ -243,7 +242,6 @@ header{
 .list-3{
     width: 350px;
     height: 322px;
-    border: 1px solid;
     margin-top: 72px;
     margin-left: 150px;
     list-style: none;
@@ -253,7 +251,6 @@ header{
 .list-4{
     width: 350px;
     height: 394px;
-    border: 1px solid;
     margin-top: 72px;
     margin-left: 22px;
     list-style: none;
@@ -263,7 +260,6 @@ header{
 .list-5{
     width: 350px;
     height: 358px;
-    border: 1px solid;
     margin-top: 72px;
     margin-left: 22px;
     list-style: none;
@@ -273,4 +269,28 @@ header{
 .img-p{
     margin-top: 40px;
     margin-left: 40px;
+}
+.ellipse-4{
+    margin-top: 40px;
+    margin-left: 40px;
+}
+.image{
+    width: 1100px;
+    height: 403px;
+    border-radius: 24px;
+    margin-left: 1450px;
+    margin-top: 124px;
+}
+.section-5{
+    width: 1100px;
+    height: 164px;
+    margin: 0 auto;
+    margin-top: 56px;
+    display: flex;
+}
+.sec-5-div-2{
+    font-size: 20px;
+    font-weight: 400px;
+    line-height: 32px;
+    margin-left: 100px;
 }
