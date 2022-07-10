@@ -370,7 +370,6 @@ main{
 footer{
     width: 1400px;
     height: 474px;
-    border: 1px solid;
     margin-top: 84px;
     display: flex;
 }
@@ -383,7 +382,6 @@ footer{
 .ul-footer{
     width: 642px;
     height: 240px;
-    border: 1px solid;
     display: flex;
     margin-left: 179px;
     margin-top: 100px;
